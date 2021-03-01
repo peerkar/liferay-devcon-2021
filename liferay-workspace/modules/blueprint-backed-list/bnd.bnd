@@ -1,0 +1,4 @@
+Bundle-Name: blueprint-backed-list
+Bundle-SymbolicName: com.liferay.example.blueprint.backed.list
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.example.blueprint.backed.list.constants

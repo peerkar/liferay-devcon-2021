@@ -1,0 +1,22 @@
+.sample-list {
+
+	list-style-type: none;
+
+	li {
+		img {
+		    width: 100px;
+		    height: 100px;
+		    display: inline-block; 
+		    margin-right: 20px;
+		    object-fit: contain; 
+		    background-position: center center;
+		    background-repeat: no-repeat;
+		}
+
+		border-bottom: 1px solid #ddd;
+	}
+
+	li:hover {
+		background: #eee;
+	}
+}
